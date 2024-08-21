@@ -1,0 +1,335 @@
+[{
+  "_id": {
+    "$oid": "651f05dc968c6e500553ce80"
+  },
+  "name": "Muhammad Rizki",
+  "email": "thuanbhacot@gmail.com",
+  "password": "$2a$12$/sBRAFCwTfkJl/Udu9F/I.K8Uw5HTIMFpYWW/FqTTKPbf2wNMUJs6",
+  "image": "https://res.cloudinary.com/dqasgrg7c/image/upload/v1724108647/gambarAtributt/ezyxkjtlmuxnt92fmndb.png",
+  "role": "admin",
+  "category": "all"
+},
+{
+  "_id": {
+    "$oid": "65209025550949f47afac78e"
+  },
+  "name": "Anamul Jesica",
+  "email": "anamul@gmail.com",
+  "password": "$2a$12$/ziXGi7YB1u/77TFOMKvIO7ii2iRhDF9aMWo8YfzfGyjbn67gnypG",
+  "image": "http://res.cloudinary.com/dpj4vsqbo/image/upload/v1698330164/news/q9bg4lez0xs4u9wyqw86.jpg",
+  "role": "writer",
+  "category": "Education",
+  "createdAt": {
+    "$date": "2023-10-06T22:54:29.262Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-27T03:22:48.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65209087550949f47afac791"
+  },
+  "name": "Himel Biantara",
+  "email": "himel@gmail.com",
+  "password": "$2a$12$yoWQRrzaEeC2Had49kYGgOYSFVcOnYZSB10rDGsm1yE/4SydFPObC",
+  "image": "http://res.cloudinary.com/dpj4vsqbo/image/upload/v1698330164/news/q9bg4lez0xs4u9wyqw86.jpg",
+  "role": "writer",
+  "category": "Technology",
+  "createdAt": {
+    "$date": "2023-10-06T22:56:07.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T22:56:07.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65219a74eda1b0d696ec938b"
+  },
+  "name": "Samim Islam",
+  "email": "samim@gmail.com",
+  "password": "$2a$09$T.4CemWsQW3lr8e5AWyLCOSBUPz3YL183zK/d6.nyZbIHn9uErHmC",
+  "image": "http://res.cloudinary.com/dpj4vsqbo/image/upload/v1704456081/news/pndiprrepjakaud8zccm.jpg",
+  "role": "writer",
+  "category": "Sports",
+  "createdAt": {
+    "$date": "2023-10-07T17:50:44.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-05T23:32:47.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652602ad09d999bd1a49da9d"
+  },
+  "name": "Moshiur Rahman",
+  "email": "moshiur@gmail.com",
+  "password": "$2a$12$Hw4c4T1pvijuzzecGzd9PectJ20Tr9RISk7UJQf2Z/BNA6kYktKBm",
+  "image": "http://res.cloudinary.com/dpj4vsqbo/image/upload/v1704456081/news/pndiprrepjakaud8zccm.jpg",
+  "role": "writer",
+  "category": "International",
+  "createdAt": {
+    "$date": "2023-10-11T02:04:29.863Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T02:04:29.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652602e409d999bd1a49daa0"
+  },
+  "name": "Sabbir Baihaki",
+  "email": "sabbir@gmail.com",
+  "password": "$2a$12$V9CAQti8LuUSjCVijc0NDuBzDQ9a3JEAUEveGsIKb/NmPEinzDA/u",
+  "image": "http://res.cloudinary.com/dpj4vsqbo/image/upload/v1698330164/news/q9bg4lez0xs4u9wyqw86.jpg",
+  "role": "writer",
+  "category": "Health",
+  "createdAt": {
+    "$date": "2023-10-11T02:05:24.864Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T02:05:24.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6526030a09d999bd1a49daa3"
+  },
+  "name": "Suvro Benny",
+  "email": "suvro@gmail.com",
+  "password": "$2a$12$TKosfAMm.MNnaDST2h4oHONeVVkf6qZfomO2lm33oG.oqaOl2MwBi",
+  "image": "http://res.cloudinary.com/dpj4vsqbo/image/upload/v1704456081/news/pndiprrepjakaud8zccm.jpg",
+  "role": "writer",
+  "category": "Travel",
+  "createdAt": {
+    "$date": "2023-10-11T02:06:02.038Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T02:06:02.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c3b2582c2dd02aae50a19c"
+  },
+  "name": "Rizki Ardiansyah",
+  "email": "rizki@gmail.com",
+  "password": "$2b$10$kBOn2Hq0n/iPTc6KhjOfxO9Sm0vFOTOHzwi8x6fZDh2Q9OQ5fNfx2",
+  "role": "writer",
+  "image": "http://res.cloudinary.com/dpj4vsqbo/image/upload/v1698330164/news/q9bg4lez0xs4u9wyqw86.jpg",
+  "category": "Political",
+  "createdAt": {
+    "$date": "2024-08-19T21:00:08.387Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-19T21:00:08.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c49002e901b7d09761798f"
+  },
+  "name": "Rajul",
+  "email": "rajul@gmail.com",
+  "password": "$2b$10$tSmF5fa6fm0Jt.ez.dBLD.YDVkQ9LZ0ELziRP/cft2dCmvqn.HnjK",
+  "role": "writer",
+  "image": "",
+  "category": "Political",
+  "createdAt": {
+    "$date": "2024-08-20T12:45:55.342Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T12:45:55.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c4902ee901b7d097617993"
+  },
+  "name": "Akbar",
+  "email": "akbar@gmail.com",
+  "password": "$2b$10$JJaMcedmo28Uk/X1F2Aid.G6hwb5m98qZ9WBKq3zMoNfjWMJJqpYC",
+  "role": "writer",
+  "image": "",
+  "category": "Political",
+  "createdAt": {
+    "$date": "2024-08-20T12:46:38.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T12:46:38.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c49050e901b7d097617997"
+  },
+  "name": "Gufran",
+  "email": "gufran@gmail.com",
+  "password": "$2b$10$oczeg0h8.N8PF8fOi5Vs5etnuuSzdoTQXw.fOgABusmEsPZDuLq3G",
+  "role": "writer",
+  "image": "",
+  "category": "Political",
+  "createdAt": {
+    "$date": "2024-08-20T12:47:12.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T12:47:12.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c490afe901b7d0976179a8"
+  },
+  "name": "Islahu",
+  "email": "islahu@gmail.com",
+  "password": "$2b$10$Q72xId3Qfam5sFji53U0JurmM0ue/4gA59p6Phwp5mk047PlGy19W",
+  "role": "writer",
+  "image": "",
+  "category": "Political",
+  "createdAt": {
+    "$date": "2024-08-20T12:48:47.316Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T12:48:47.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c490e4e901b7d0976179ac"
+  },
+  "name": "Tatang Sapriadin",
+  "email": "tatang@gmail.com",
+  "password": "$2b$10$P89HtINbcrl.f7f8dL5QXuFuYD9urvUws69Dp3xqEHodZzdTfDGEC",
+  "role": "writer",
+  "image": "",
+  "category": "Political",
+  "createdAt": {
+    "$date": "2024-08-20T12:49:40.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T12:49:40.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c4939e9922c5817c8aed23"
+  },
+  "name": "Salsa Trinagita",
+  "email": "salsa@gmail.com",
+  "password": "$2b$10$N/KhyxA7zwNmtRMZ6bnYu.DLD4egCbXa8Lt.FapMmR5AwQY7o1Tgy",
+  "role": "writer",
+  "image": "",
+  "category": "Health",
+  "createdAt": {
+    "$date": "2024-08-20T13:01:18.747Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T13:01:18.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c493c89922c5817c8aed27"
+  },
+  "name": "Andi Wardana",
+  "email": "andi@gmail.com",
+  "password": "$2b$10$uOWZOOQ/YSK.vOJYqpZHXu842JTvskbzB37ZDXavN1w76Ur0A4Beq",
+  "role": "writer",
+  "image": "",
+  "category": "Education",
+  "createdAt": {
+    "$date": "2024-08-20T13:02:00.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T13:02:00.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c493ef9922c5817c8aed2b"
+  },
+  "name": "Farhan Dimas",
+  "email": "farhan@gmail.com",
+  "password": "$2b$10$gMjDYZhYjMr9fgNmUCDxu.ZieLRBo6j485SlZG1PGCtGZ9wpFo4DK",
+  "role": "writer",
+  "image": "",
+  "category": "Travel",
+  "createdAt": {
+    "$date": "2024-08-20T13:02:39.643Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T13:02:39.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c494169922c5817c8aed2f"
+  },
+  "name": "Yusril Gunawan",
+  "email": "yusril@gmail.com",
+  "password": "$2b$10$4/7Z.1AXmwUhPUUp7PteIuWPCpWkuq.DK9bZMdXvVibo.eDDnWEW2",
+  "role": "writer",
+  "image": "",
+  "category": "International",
+  "createdAt": {
+    "$date": "2024-08-20T13:03:18.494Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T13:03:18.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c494329922c5817c8aed33"
+  },
+  "name": "Gilang",
+  "email": "gilang@gmail.com",
+  "password": "$2b$10$T803h0VaelhXmjNSE02/ROQ3yX8JximqsujGW0.XDmFNEWrV3JTrC",
+  "role": "writer",
+  "image": "",
+  "category": "Sports",
+  "createdAt": {
+    "$date": "2024-08-20T13:03:46.565Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T13:03:46.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c494619922c5817c8aed39"
+  },
+  "name": "Widia Arnita",
+  "email": "widia@gmail.com",
+  "password": "$2b$10$DoaVJ4zb0xycvcNJ19jJA.T89ZTZv5jJS35GaT0QSSUsWfeQCIWiO",
+  "role": "writer",
+  "image": "",
+  "category": "Technology",
+  "createdAt": {
+    "$date": "2024-08-20T13:04:33.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T13:04:33.068Z"
+  },
+  "__v": 0
+}]
